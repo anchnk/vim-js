@@ -1,5 +1,5 @@
 # vim-js
-Collection of settings and plugins to work effective with JS.
+Collection of settings and plugins to work effectively with JS.
 
 
 # Workflows
