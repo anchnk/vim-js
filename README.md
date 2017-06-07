@@ -7,7 +7,7 @@ Collection of settings and plugins to work effective with JS.
 - maybe animated gifs for things you commonly do
 
 
-# Plugins
+# General Plugins
 
 - [Name](http://github.com/...): it does the following
   - usefull options:
@@ -17,3 +17,14 @@ Collection of settings and plugins to work effective with JS.
 # Ressources
 
 - links to external pages 
+
+
+# Frameworks
+
+## React
+
+### Plugins
+
+## Webpack
+
+### Plugins
