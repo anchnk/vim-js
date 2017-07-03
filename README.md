@@ -59,10 +59,4 @@ frameworks / librairies like `node.js`, `Angular`, `React`, `Vue`, `Electron`...
 
 # Frameworks
 
-## React
-
-### Plugins
-
-## Webpack
-
-### Plugins
+List everything related to TypeScript, React, Angular, Vue, Webpack, etc...
